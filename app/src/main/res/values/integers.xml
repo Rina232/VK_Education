@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="columns_number">3</integer>
+
+    <integer name="card_text_size">32</integer>
+    <integer name="button_text_size">28</integer>
+</resources>

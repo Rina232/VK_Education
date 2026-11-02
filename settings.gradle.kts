@@ -24,3 +24,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "vk_hw_1"
 include(":app")
+ 

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="spacing">25dp</dimen>
+    <dimen name="column_top_padding">15dp</dimen>
+    <dimen name="add_button_padding">16dp</dimen>
+    <dimen name="card_corner">16dp</dimen>
+</resources>
